@@ -62,7 +62,7 @@ networkx==2.4
 notebook==6.1.5
 ntlm-auth==1.4.0
 numba==0.48.0
-numpy==1.18.1
+numpy==1.21.0
 pandas==1.0.1
 pandocfilters==1.4.2
 parso==0.6.2
